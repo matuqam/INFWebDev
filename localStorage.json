@@ -1,0 +1,21 @@
+{
+	"data": [{
+		"nom": "stade1",
+		"capacite": "888",
+		"acces": "lkj",
+		"environnement": "oiu",
+		"dateService": "21-21-2001"
+	}, {
+		"nom": "stade3",
+		"capacite": "9999",
+		"acces": "lkj",
+		"environnement": "oiu",
+		"dateService": "21-21-2001"
+	}, {
+		"nom": "stade5",
+		"capacite": "44",
+		"acces": "lkj",
+		"environnement": "oiu",
+		"dateService": "21-21-2001"
+	}]
+}
